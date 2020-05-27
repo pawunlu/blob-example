@@ -6,10 +6,10 @@ Pasos
 
 1. Descargar el proyecto
 ```bash
-git clone <url>
+git clone https://github.com/pawunlu/blob-example.git
 ```
 
-2. Crear un archivo de configuración
+2. Crear un archivo de configuración a partir de [config.php.example](config.php.example)
 ```bash
 cp config.php.example config.php
 ```
